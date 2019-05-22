@@ -1,0 +1,23 @@
+[
+	{
+		"label":"SAMANTHA",
+		"options":[
+			{"label":"Travel",
+			 "value":"Travel"},
+			{"label":"Rule Class",
+			 "value":"Rule Class"},
+			{"label":"Travel Policy",
+			 "value":"Travel Policy"},
+			{"label":"Policy Violations Reason",
+			 "value":"Policy Violations Reason"},
+			{"label":"Travel Rule",
+			 "value":"Travel Rule"},
+			{"label":"Travel Vendor Exclusion",
+			 "value":"Travel Vendor Exclusion"},
+			{"label":"Travel Discount",
+			 "value":"Travel Discount"},
+			{"label":"Contracts",
+			 "value":"Contracts"}
+	]
+	}
+]
